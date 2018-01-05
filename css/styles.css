@@ -8,7 +8,8 @@ body {
 	line-height: 1.2;
 	max-width: 60rem;
 	margin: 0 auto;
-	color: #4e1d1d;
+	background-image: 
+      url('../images/test.jpg');
 }
 
 img {
